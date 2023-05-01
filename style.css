@@ -71,7 +71,5 @@
 }
 
 #back-to-top {
-  position: relative;
-  bottom: 0;
-  right: 0;
+  float: right;
 }
